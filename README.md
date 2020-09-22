@@ -4,7 +4,7 @@
 
 *Country*: Kenya
 
-Project’s title: A web application to provide location based services to clients
+**Project’s title**: A web application to provide location based services to clients
 
 # Baseleg
 
