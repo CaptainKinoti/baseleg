@@ -1,6 +1,8 @@
-Name: Victor Gatobu Kinoti
-City: Nairobi
-Country: Kenya
+*Name*: Victor Gatobu Kinoti
+
+*City*: Nairobi
+
+*Country*: Kenya
 
 Project’s title: A web application to provide location based services to clients
 
